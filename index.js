@@ -12,4 +12,5 @@ fs.writeFile(path.join(filePath, 'test.txt'), 'Hello, world!', function (err) {
     } else {
         console.log('File created successfully.');
     }
+    //
 });
